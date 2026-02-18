@@ -1,0 +1,5 @@
+{
+  "name": "ZelleSync - Shopify Order Reconciler",
+  "description": "An intelligent dashboard that uses Gemini to parse PayPal and Zelle confirmation emails and reconcile them with Shopify orders.",
+  "requestFramePermissions": []
+}
